@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm JAYA KRISHNA V</h1>
 <h3 align="center">Generative AI engineer in the making | RAG • Computer Vision • Python</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jayakrishna-v1&label=Profile%20views&color=0e75b6&style=flat" alt="jayakrishna-v1" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jayakrishna-v1" alt="jayakrishna-v1" /></a> </p>
 
 - 🔭 I’m currently working on [Factory Reallocation & Shipping Optimization System (Nassau Candy)](https://github.com/JayaKrishna-v1/factory-shipping-optimizer)
